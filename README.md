@@ -19,3 +19,17 @@
 >- 疑问（可选）
 >    - [问题归属]
 >      - 具体内容
+o
+## yaoliulong
+
+-学习计划
+    -读过，
+    -可以
+    -做了
+    - 有
+- 实践
+   - Analog network communication with Cisco 
+
+   -learning network communication again
+
+
