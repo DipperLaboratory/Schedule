@@ -4,5 +4,6 @@
 
 - Java编程思想
 - C++ Primer Plus
+  - 10%
 - C Primer Plus
   - 70%
