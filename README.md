@@ -1,8 +1,7 @@
 # Schedule
 ```cpp
-阅读：	
- 《让繁琐工作自动化》：模块
-Python进度：模块
-复习c与c++内容
+linux vim/vi 学习，磁盘管理
+Python进度：文件i/o
+复习之前python所学内容
 ```
 
