@@ -28,8 +28,8 @@ o
     -做了
     - 有
 - 实践
-   - Analog network communication with Cisco 
+   - 制简单的tcp服务器 
 
-   -learning network communication again
 
+   - 制作单机游戏内存修改器（失败）
 
