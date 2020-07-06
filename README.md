@@ -12,6 +12,36 @@
 > - **阅读计划**
 >
 <h2>
+ <span style="color:red">二〇二〇</span> • 
+ <span style="color:red"> 柒 </span>
+</h2>
+
+
+> *`Computer Networking - A Top Down Approache`* - `x288`
+>
+> - [x] 网络层：控制平面
+> - [ ] 链路层和局域网
+
+<h2>
+      <span style="color:red">二〇二〇</span> • 
+ <span style="color:red"> 陆 </span>
+</h2>
+
+
+> *`Understanding the JVM - Advanced Features and Best Practices`* - `x 103` `213 - 232`
+> - [x] Java 垃圾回收器与内存分配策略 --------> `2020/06/03`
+> - [x] 类文件结构 -------------------------------> `2020/06/11`
+
+> *`On Java 8`*
+> - [x] 类型信息
+> - [x] 泛型
+> - [x] 数组 -----------> `2020/06/07`
+
+> *`Computer Networking - A Top Down Approache`* - `x230`
+>
+> - [x] 网络层：数据平面
+
+<h2>
       <span style="color:red">二〇二〇</span> • 
  <span style="color:red"> 伍 </span>
 </h2>
