@@ -1,6 +1,7 @@
 # Schedule
 [![Blog](https://img.shields.io/badge/Blog-Hello%3F-brightgreen)](https://blog.buckbit.top/s/assignment)
 <!--
+
 <p align='center'>
   <a herf="https://blog.buckbit.top/s/assignment" alt="Blog">
     <img src="https://img.shields.io/badge/Blog-Hello%3F-brightgreen" alt="Blog"/>
@@ -17,17 +18,14 @@
 </h2>
 
 
-> *`Computer Networking - A Top Down Approache`* - `x288`
+> *`Computer Networking - A Top Down Approache`* 
 >
-> - [x] 网络层：控制平面
-> - [ ] 链路层和局域网
+> *`Algorithms - ACWing`*
 
 <h2>
       <span style="color:red">二〇二〇</span> • 
  <span style="color:red"> 陆 </span>
 </h2>
-
-
 > *`Understanding the JVM - Advanced Features and Best Practices`* - `x 103` `213 - 232`
 > - [x] Java 垃圾回收器与内存分配策略 --------> `2020/06/03`
 > - [x] 类文件结构 -------------------------------> `2020/06/11`
