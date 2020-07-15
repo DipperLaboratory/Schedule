@@ -1,8 +1,9 @@
 # Schedule
 ```cpp
 
-python：类方法
-复习线代
+准备比赛
+LeetCode刷题
+
 
 ```
 
