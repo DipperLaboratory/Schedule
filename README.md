@@ -23,13 +23,16 @@
 
 
 
-- Tips
-  - 以上模板内容在填写之后即可删除（除 Schedule）
-  - 每个月份的记录不必删除，直接在顶部继续按照学习情况添加到同一个 `README` 文件即可，不必再新建文件
-  - 生成 `Blog` 小绿标
+> **Tips**
 
-		> ```markdown
-		>[![Blog](https://img.shields.io/badge/Blog-博客名-brightgreen)](博客地址)
-		> ```
-		> 效果如下
-		> [![Blog](https://img.shields.io/badge/Blog-博客名-brightgreen)]()
+> 以上模板内容在填写之后即可删除（除 Schedule）
+
+> 每个月份的记录不必删除，直接在顶部继续按照学习情况添加到同一个 `README` 文件即可，不必再新建文件
+
+> 生成 `Blog` 小绿标
+> ```markdown
+>[![Blog](https://img.shields.io/badge/Blog-博客名-brightgreen)](博客地址)
+> ```
+> 效果如下
+>
+> [![Blog](https://img.shields.io/badge/Blog-博客名-brightgreen)]()
