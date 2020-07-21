@@ -19,13 +19,20 @@
 
 
 > *`Computer Networking - A Top Down Approache`* 
->
+
 > *`Algorithms - ACWing`*
+> - [x] 排序搜索
+> - [x] 双指针、位运算、区间合并
+> - [x] 单调栈、单调队列、KMP
+> - [x] Trie Tree、并查集、堆
+> - [x] Hash Table、String Hashing
+> - [x] BFS、DFS
 
 <h2>
       <span style="color:red">二〇二〇</span> • 
  <span style="color:red"> 陆 </span>
 </h2>
+
 > *`Understanding the JVM - Advanced Features and Best Practices`* - `x 103` `213 - 232`
 > - [x] Java 垃圾回收器与内存分配策略 --------> `2020/06/03`
 > - [x] 类文件结构 -------------------------------> `2020/06/11`
