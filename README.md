@@ -1,8 +1,8 @@
 # Schedule
 ```cpp
 
-博客搭建初步完成，等待域名备案审批
-复习linux基本指令
+博客搭建完成：www.lxyxx.top 
+进一步准备美化页面
 LeetCode刷题
 
 
