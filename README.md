@@ -20,6 +20,8 @@
 > *`Algorithms - ACWing`*
 >
 > *`剑指 Offer`*
+>
+> *`Java Concurrency in Practice`*
 
 <h2>
  <span style="color:red">二〇二〇</span> • 
