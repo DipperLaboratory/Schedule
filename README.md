@@ -14,14 +14,27 @@
 >
 <h2>
  <span style="color:red">二〇二〇</span> • 
+ <span style="color:red"> 玖 </span>
+</h2>
+
+
+> *`MySQL 实战 45 讲`*
+
+> *`Java Concurrency In Practice`*
+
+<h2>
+ <span style="color:red">二〇二〇</span> • 
  <span style="color:red"> 捌 </span>
 </h2>
 
+
 > *`Algorithms - ACWing`*
->
+
 > *`剑指 Offer`*
->
-> *`Java Concurrency in Practice`*
+
+> *`MySQL 实战 45 讲`*
+
+> *`Java Concurrency In Practice`*
 
 <h2>
  <span style="color:red">二〇二〇</span> • 
@@ -30,6 +43,7 @@
 > *`Computer Networking - A Top Down Approache`* 
 
 > *`Algorithms - ACWing`*
+>
 > - [x] 排序搜索
 > - [x] 双指针、位运算、区间合并
 > - [x] 单调栈、单调队列、KMP
