@@ -22,6 +22,8 @@
 
 > *`Java Concurrency In Practice`*
 
+> *`Docker & Zookeeper & Netty`* -- 为实现一个 RPC Framework Demo 储备前置知识
+
 <h2>
  <span style="color:red">二〇二〇</span> • 
  <span style="color:red"> 捌 </span>
