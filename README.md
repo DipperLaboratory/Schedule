@@ -1,8 +1,8 @@
 # Schedule
 ```cpp
 
-整理笔记：
-    模板：迭代、二分法、递归、分治（没完全理解）、树
+更新博客：python爬虫笔记  www.lxyxx.top
+安装java 15并做好调试
 
 ```
 
