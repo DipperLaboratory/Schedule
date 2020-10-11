@@ -1,8 +1,10 @@
 # Schedule
 ```cpp
 
-更新博客：python爬虫笔记  www.lxyxx.top
-安装java 15并做好调试
+进行四级的准备，刷四级题；
+梯子的重新搭建；
+java的继续学习：进度到封装（B站教程视频加vc笔记撰写）；
+python爬虫的继续学习；
 
 ```
 
