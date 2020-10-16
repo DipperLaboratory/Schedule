@@ -10,8 +10,17 @@
 -->
 
 
-> - **阅读计划**
+> - **READ & CODE**
 >
+<h2>
+ <span style="color:red">二〇二〇</span> • 
+ <span style="color:red"> 拾 </span>
+</h2>
+
+> *`MySQL 实战 45 讲`*
+
+> *`Netty : The Definitive Guide`*
+
 <h2>
  <span style="color:red">二〇二〇</span> • 
  <span style="color:red"> 玖 </span>
