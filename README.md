@@ -7,6 +7,6 @@
 - C++ Primer Plus
   - 10%
 - C Primer Plus
-  - 50%
-- 看chromium源码 
-- 看FastAPI
+  - 312 / 730
+  
+- 备战 GSoC
