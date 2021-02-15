@@ -38,9 +38,7 @@
 >截至2021.1.26
 >- 树莓派安装好了docker，并安装portainer1.24.1，后更新至2.0
 >-了解到2.0的安装命令有些些不一样，改了名字
->-```
-docker pull portainer/portainer-ce
-```
+>-``docker pull portainer/portainer-ce``
 
 >截至2021.1.27
 >- 为树莓派安装了debian，通过端口访问，看到了web可视化管理
