@@ -5,18 +5,18 @@
 
 1. **研究一下树莓派Raspberry Pi**
 <br>https://github.com/openfans-community-offical/Debian-Pi-Aarch64
-       1.学习一下linux的一些语法语句
+           1.学习一下linux的一些语法语句
 	   2.更新软件源
 	   3.docker，luci，cups等。
 	   
 2. **研究学长写的关于爬取课表数据并转换成.ics文件的python源代码**
 <br>https://github.com/Zxilly/CalendarGenerator
-       1.运行这个程序，获取学期课表
+           1.运行这个程序，获取学期课表
 	   2.研究教务系统accessToken的生成方式
 	   
 3. **准备计算机二级考试**
-       1.配置模拟考试系统环境
-       2.学习浮点表示，线性链表。二叉树等二级公共基础知识考试大纲
+           1.配置模拟考试系统环境
+           2.学习浮点表示，线性链表。二叉树等二级公共基础知识考试大纲
 	   3.学习MS Office高级应用内容
 
 4. **组装一台ATX主机（先选配件，慢慢攒机）**
