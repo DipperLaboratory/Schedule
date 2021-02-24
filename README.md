@@ -4,6 +4,12 @@
 
 ###   **写在最前**|[我的blog](https://www.zyyqg.xyz/)
 
+### 2021.2.24
+
+- 《PHP，MySQL，JavaScript学习手册》50%
+- 给博客增加了个侧边栏
+- docker,linux
+
 ### 2021.2.14
 
 - 多线程
