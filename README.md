@@ -1,6 +1,12 @@
 学习进度汇报
 
 ## 学习计划
+
+#### 2020.3.14
+* 学习重装系统
+* 了解.c与.cpp的区别 [链接]（https://blog.csdn.net/lyanliu/article/details/2195632?utm_source=app&app_version=4.5.4）
+* C语言从入门到精通  45%
+  
 #### 2020.1
 
  * 学习git语法与md语法
