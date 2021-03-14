@@ -4,6 +4,12 @@
 
 ###   **写在最前**|[我的blog](https://www.zyyqg.xyz/)
 
+### 2021.3.14
+
+- 使用python实现鼠标/键盘的监听和控制等功能
+- 给手机和电脑都搭上了梯子
+- 准备学python
+
 ### 2021.2.24
 
 - 《PHP，MySQL，JavaScript学习手册》50%
